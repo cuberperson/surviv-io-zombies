@@ -9,6 +9,7 @@ public class CameraScript : MonoBehaviour
     int scope = 1;
 
     // Update is called once per frame
+    //test;
     void Start(){
 
     }
